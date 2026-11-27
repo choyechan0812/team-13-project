@@ -12,7 +12,7 @@
 
 ## 3. 실행 화면
 <!-- 실행 화면 이미지 추가 -->
-![메인 화면](https://github.com/choyechan0812/main/image/screenshot.png)
+![메인 화면](./images/screenshot.png)
 
 ## 4. 실행 방법
 아래 주소에 접속하면 웹사이트를 이용할 수 있습니다.
