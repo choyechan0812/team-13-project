@@ -12,7 +12,7 @@
 
 ## 3. 실행 화면
 <!-- 실행 화면 이미지 추가 -->
-![메인 화면](file:///C:/Users/choye/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-11-27%20163659.png)
+![메인 화면](https://github.com/choyechan0812/main/image/screenshot.png)
 
 ## 4. 실행 방법
 아래 주소에 접속하면 웹사이트를 이용할 수 있습니다.
